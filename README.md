@@ -1,5 +1,7 @@
 # Blog API (Node.js + Express)
 
+https://github.com/sanjanadholariya/adminpanel_blog_passportJS_nodeJS/issues/1#issue-3605344619
+
 A complete backend REST API for blog management with JWT authentication, role-based access, article CRUD, and MongoDB storage.
 
 ---
